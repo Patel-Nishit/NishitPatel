@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving personal project of E-commerce website.<br><br> 🌱 **I’m currently learning:**  <br>Reactjs .<br><br>💬 **Ask me about:**  <br>JavaScript, HTML, CSS and any general Front end development questions.<br><br>
+🔭 **I’m currently working on:**  <br>Improving personal project of E-commerce website.<br><br> 🌱 **I’m currently learning:**  <br>Reactjs.<br><br>💬 **Ask me about:**  <br>JavaScript, HTML, CSS and any general Front end development questions.<br><br>
 
 
 ## 🌐 Socials:
